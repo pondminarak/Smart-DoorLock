@@ -1,4 +1,4 @@
-Smart-DoorLock
+<h1 color = "Red">Smart-DoorLock</h1>
 ![image](https://github.com/pondminarak/Smart-DoorLock/assets/125027100/3987c50b-1bf3-4ad4-8d3f-f9fcc37439e2)
 <h2>Tool</h2> <br>
 <p>1. Arduino Uno</p>
