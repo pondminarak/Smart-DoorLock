@@ -10,4 +10,4 @@ Smart-DoorLock
 <p>7. Button switch module</p>
 <hr>
 <h2>How to Install Fingerprint Libary</h2><br>
-<p><a herf = "https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library">go to link </a></p>
+<p><a href = "https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library">go to link </a></p>
