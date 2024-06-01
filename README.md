@@ -11,3 +11,5 @@ Smart-DoorLock
 <hr>
 <h2>How to Install Fingerprint Libary</h2><br>
 <p><a href = "https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library">go to link </a></p>
+<p> Download and Add To Libary in Compiler </p> 
+<hr>
