@@ -10,4 +10,4 @@ Smart-DoorLock
 <p>7. Button switch module</p>
 <hr>
 <h2>How to Install Fingerprint Libary</h2><br>
-<p><a herf = "Fingerprint">go to link </a></p>
+<a herf = "Fingerprint">go to link </a>
