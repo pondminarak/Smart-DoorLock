@@ -1,4 +1,4 @@
-<h1>Smart-DoorLock</h1>
+Smart-DoorLock
 ![image](https://github.com/pondminarak/Smart-DoorLock/assets/125027100/3987c50b-1bf3-4ad4-8d3f-f9fcc37439e2)
 <h2>Tool</h2> <br>
 <p>1. Arduino Uno</p>
@@ -9,3 +9,5 @@
 <p>6. LCD I2C 16x2</p>
 <p>7. Button switch module</p>
 <hr>
+<h2>How to Install Fingerprint Libary</h2><br>
+<p><a herf = "Fingerprint">go to link </a></p>
